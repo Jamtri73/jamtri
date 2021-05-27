@@ -4,7 +4,7 @@ Hey.
 
 I'm that dingbat you think of when your brain imagines "furries with jobs". Aside from the artists, of course.
 
-I'm a 3D rendering and texture artist who's been following this passion for about a year now; I started with simple renders based around Roblox characters back in May of 2020, and have since grown to much more than unusually smooth LEGO people. To be fair with whoever is reading this, I don't even know if I should be here. As far as I know, GitHub is a platform for software developers and I am *far* from being one.'
+I'm a 3D rendering and texture artist who's been following this passion for about a year now; I started with simple renders based around Roblox characters back in May of 2020, and have since grown to much more than unusually smooth LEGO people. To be fair with whoever is reading this, I don't even know if I should be here. As far as I know, GitHub is a platform for software developers and I am *far* from being one.
 
 I also have a quite unhealthy addiction to Geometry Dash.
 
